@@ -1,39 +1,7 @@
 import kotlin.random.Random
 
 fun main() {
-    juego()
 
-
-    println("MI PRIMER COMMIT")
-    println("APRENDIENDO COMANDOS")
-    println("APRENDIENDO COMANDOS")
-    println("APRENDIENDO COMANDOS")
-    println("APRENDIENDO COMANDOS")
-    println("APRENDIENDO COMANDOS")
-    println("APRENDIENDO COMANDOS")
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-fun juego() {
     var pJugador: Int = 0
     var pMaquina: Int = 0
     while (pJugador != 2 && pMaquina != 2) {
@@ -83,6 +51,7 @@ fun juego() {
         println("--------------GANO LA MAQUINA---------------")
     }
 }
+
 
 
 
