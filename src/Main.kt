@@ -6,6 +6,11 @@ fun main() {
 
     println("MI PRIMER COMMIT")
     println("APRENDIENDO COMANDOS")
+    println("APRENDIENDO COMANDOS")
+    println("APRENDIENDO COMANDOS")
+    println("APRENDIENDO COMANDOS")
+    println("APRENDIENDO COMANDOS")
+    println("APRENDIENDO COMANDOS")
 
 
 
